@@ -5,6 +5,6 @@
 - 📫 How to reach me felipechampan@gmail.com
 
 <!---
-ofelipechampan/ofelipechampan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ofelipechampan/Informations about me! is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
