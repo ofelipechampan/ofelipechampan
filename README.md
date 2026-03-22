@@ -1,4 +1,4 @@
-# Hi, I'm Felipe Ribeiro Champan! 🚀
+# Hi, I'm Felipe Ribeiro Champan!
 
 Electrical engineer currently pursuing a degree in **Control and Automation Engineering** at UTFPR.
 
@@ -11,16 +11,11 @@ Electrical engineer currently pursuing a degree in **Control and Automation Engi
 
 ### 🧪 Technologies & Tools
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **Engineering** | ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **Current Studies** | ![Automation](https://img.shields.io/badge/Industrial_Automation-004A7F?style=flat-square) |
 
 ---
 
 ### 📈 GitHub Stats
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofelipechampan&show_icons=true&theme=radical)
 
 ---
 
