@@ -1,6 +1,6 @@
 # Hi, I'm Felipe Ribeiro Champan! 🚀
 
-Electrical Engineer currently pursuing a second degree in **Control and Automation Engineering** at UTFPR.
+Electrical engineer currently pursuing a degree in **Control and Automation Engineering** at UTFPR.
 
 ---
 
